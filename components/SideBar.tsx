@@ -24,7 +24,7 @@ const SideBar = ({user}:SiderbarProps) => {
                 height={34}
                 alt=''/>
                 <h1 className='sidebar-logo'>
-                  PayStudio
+                  PayAsap
                 </h1>
             </Link>
             {sidebarLinks.map((item)=>{
